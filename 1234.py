@@ -1,4 +1,6 @@
 import streamlit as st
+!pip install streamlit transformers torch googletrans==4.0.0-rc1 gtts
+
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from googletrans import Translator

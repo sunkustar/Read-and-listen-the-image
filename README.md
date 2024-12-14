@@ -1,7 +1,5 @@
 
-
-# Project Title
-Read and Listen Image
+# Read and Listen Image
 
 
 ## Description
